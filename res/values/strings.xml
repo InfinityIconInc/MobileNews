@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Mobile News</string>
+    <string name="action_settings">Settings</string>
+    <string name="strGetLatestNews">Get Latest News</string>
+    <string name="strAd">Get Latest Mobile Phone Prices</string>
+
+</resources>
